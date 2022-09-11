@@ -7,11 +7,11 @@ I'm Anchal Pandey, a passionate self-taught learner of full stack web developer.
 
 <h2 align="center">My Github Stats</h2>
 <p align="center">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalPandey29&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
+<img style="padding-bottom:20px;" align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalPandey29&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnchalPandey29&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
+<img  style="padding-bottom:20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=AnchalPandey29&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnchalPandey29&theme=dracula">	
+<img style="padding-bottom:20px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnchalPandey29&theme=dracula">	
 
 </p>
 
@@ -34,5 +34,4 @@ Also, ⭐️ and fork this repository if you wish to give this new feature a try
 [![HitCount](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29.svg)](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29) ![ViewCount](https://views.whatilearened.today/views/github/AnchalPandey29/AnchalPandey29.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://AnchalPandey29.github.io/AnchalPandey29/)
 
 </div>
-  ![Snake animation](https://github.com/AnchalPandey29/AnchalPandey29/blob/output/github-contribution-grid-snake.svg)
-
+  

@@ -6,14 +6,15 @@ I'm Anchal Pandey, a passionate self-taught learner of full stack web developer.
 <hr>
 
 <h2 align="center">My Github Stats</h2>
-<p align="center">
-<img style="padding-bottom:20px;" align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalPandey29&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
 
-<img  style="padding-bottom:20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=AnchalPandey29&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
+<div align="center">
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalPandey29&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
 
-<img style="padding-bottom:20px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnchalPandey29&theme=dracula">	
+<img style="margin:20px;" align="center" src="https://github-readme-stats.vercel.app/api?username=AnchalPandey29&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 
-</p>
+<img style="margin:20px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnchalPandey29&theme=dracula">	
+
+</div>
 
 <hr>
 <div align="center">

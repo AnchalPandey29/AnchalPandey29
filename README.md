@@ -33,7 +33,7 @@ Also, ⭐️ and fork this repository if you wish to give this new feature a try
 
 <div align="center">
   
-[![HitCount](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29.svg)](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29) ![ViewCount](https://views.whatilearened.today/views/github/AnchalPandey29/AnchalPandey29.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://AnchalPandey29.github.io/AnchalPandey29/)
+[![HitCount](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29.svg)](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29) ![ViewCount](https://views.whatilearened.today/views/github/AnchalPandey29/AnchalPandey29.svg) <br>[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://AnchalPandey29.github.io/AnchalPandey29/)
 
 </div>
   

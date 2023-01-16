@@ -8,7 +8,7 @@ I'm Anchal Pandey, a passionate self-taught learner of full stack web developer.
 <h2 align="center">My Github Stats</h2>
 
 <div align="center">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalPandey29&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10">
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnchalPandey29&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=100">
 <p></p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnchalPandey29&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 <br>

@@ -2,7 +2,7 @@
 <br>
 </p>
 Welcome to my page!<br>
-I'm Anchal Pandey, a passionate self-taught learner of full stack web developer.Have some experience in front-end web development and Android app development.
+I'm Anchal Pandey, a passionate Full Stack Web Developer.Have good foundation and experience in developing scalable, and secure Websites and Android app development.
 <hr>
 
 <h2 align="center">My Github Stats</h2>
@@ -33,7 +33,7 @@ Also, ⭐️ and fork this repository if you wish to give this new feature a try
 
 <div align="center">
   
-[![HitCount](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29.svg)](http://hits.dwyl.com/AnchalPandey29/AnchalPandey29) ![ViewCount](https://views.whatilearened.today/views/github/AnchalPandey29/AnchalPandey29.svg) <br>[![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://AnchalPandey29.github.io/AnchalPandey29/)
+![ViewCount](https://views.whatilearened.today/views/github/AnchalPandey29/AnchalPandey29.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://AnchalPandey29.github.io/AnchalPandey29/)
 
 </div>
   
